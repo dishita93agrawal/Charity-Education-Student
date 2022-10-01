@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "doubtstar-student",
+    "slug": "snack-ad254635-6e2f-4a38-88e9-a03e7da167d8",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      },
+      "package": "www.gargi.doublestarstudent"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
